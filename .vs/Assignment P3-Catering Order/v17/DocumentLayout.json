@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carso\\source\\repos\\Assignment P3-Catering Order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC463C01-53A1-4807-B21B-92CBFFE8B10D}|Assignment P3-Catering Order\\Assignment P3-Catering Order.vbproj|c:\\users\\carso\\source\\repos\\assignment p3-catering order\\assignment p3-catering order\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AC463C01-53A1-4807-B21B-92CBFFE8B10D}|Assignment P3-Catering Order\\Assignment P3-Catering Order.vbproj|solutionrelative:assignment p3-catering order\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC463C01-53A1-4807-B21B-92CBFFE8B10D}|Assignment P3-Catering Order\\Assignment P3-Catering Order.vbproj|C:\\Users\\Carso\\source\\repos\\Assignment P3-Catering Order\\assignment p3-catering order\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AC463C01-53A1-4807-B21B-92CBFFE8B10D}|Assignment P3-Catering Order\\Assignment P3-Catering Order.vbproj|solutionrelative:assignment p3-catering order\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC463C01-53A1-4807-B21B-92CBFFE8B10D}|Assignment P3-Catering Order\\Assignment P3-Catering Order.vbproj|C:\\Users\\Carso\\source\\repos\\Assignment P3-Catering Order\\assignment p3-catering order\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AC463C01-53A1-4807-B21B-92CBFFE8B10D}|Assignment P3-Catering Order\\Assignment P3-Catering Order.vbproj|solutionrelative:assignment p3-catering order\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Carso\\source\\repos\\Assignment P3-Catering Order\\Assignment P3-Catering Order\\Form1.vb",
+              "RelativeDocumentMoniker": "Assignment P3-Catering Order\\Form1.vb",
+              "ToolTip": "C:\\Users\\Carso\\source\\repos\\Assignment P3-Catering Order\\Assignment P3-Catering Order\\Form1.vb [Design]",
+              "RelativeToolTip": "Assignment P3-Catering Order\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-31T19:22:27.419Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Carso\\source\\repos\\Assignment P3-Catering Order\\Assignment P3-Catering Order\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "Assignment P3-Catering Order\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\Carso\\source\\repos\\Assignment P3-Catering Order\\Assignment P3-Catering Order\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "Assignment P3-Catering Order\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-31T20:31:17.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Carso\\source\\repos\\Assignment P3-Catering Order\\Assignment P3-Catering Order\\Form1.vb",
+              "RelativeDocumentMoniker": "Assignment P3-Catering Order\\Form1.vb",
+              "ToolTip": "C:\\Users\\Carso\\source\\repos\\Assignment P3-Catering Order\\Assignment P3-Catering Order\\Form1.vb",
+              "RelativeToolTip": "Assignment P3-Catering Order\\Form1.vb",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-31T20:25:30.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

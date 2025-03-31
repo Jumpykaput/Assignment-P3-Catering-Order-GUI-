@@ -1,0 +1,12 @@
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\obj\Debug\Assignment P3-Catering Order.vbproj.AssemblyReference.cache
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\obj\Debug\Assignment_P3_Catering_Order.frmCateringOrder.resources
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\obj\Debug\Assignment_P3_Catering_Order.Resources.resources
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\obj\Debug\Assignment P3-Catering Order.vbproj.GenerateResource.cache
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\obj\Debug\Assignment P3-Catering Order.vbproj.CoreCompileInputs.cache
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\bin\Debug\Assignment P3-Catering Order.exe.config
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\bin\Debug\Assignment P3-Catering Order.exe
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\bin\Debug\Assignment P3-Catering Order.pdb
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\bin\Debug\Assignment P3-Catering Order.xml
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\obj\Debug\Assignment P3-Catering Order.exe
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\obj\Debug\Assignment P3-Catering Order.xml
+C:\Users\Carso\source\repos\Assignment P3-Catering Order\Assignment P3-Catering Order\obj\Debug\Assignment P3-Catering Order.pdb
